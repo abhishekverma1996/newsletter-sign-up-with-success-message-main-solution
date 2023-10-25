@@ -79,4 +79,4 @@ function submitEmail(e) {
 ## Author
 
 - Frontend Mentor - [https://www.frontendmentor.io/profile/abhishekverma1996](https://www.frontendmentor.io/profile/abhishekverma1996)
-- Twitter - [@vermaabhishekc2](hhttps://twitter.com/vermaabhishekc2)
+- Twitter - [@vermaabhishekc2](https://twitter.com/vermaabhishekc2)
